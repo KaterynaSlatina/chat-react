@@ -1,7 +1,7 @@
 {
   "name": "chat-react",
   "version": "0.0.0",
-  "homepage": "https://github.com/KaterynaSlatina/chat-react",
+  "homepage": "https://github.com/KaterynaSlatina/chat-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
