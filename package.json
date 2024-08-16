@@ -1,7 +1,6 @@
 {
   "name": "chat-react",
   "version": "0.0.0",
-  "main": "server.js",
   "homepage": "https://github.com/KaterynaSlatina/chat-react",
   "type": "module",
   "scripts": {
